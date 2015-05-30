@@ -1,20 +1,3 @@
 { 
   "title": "Start your website today!",
-  "owner": {
-    "your_name": "YouSite",
-    "about_you": "We've created a product that automatically lets you create a site from your youtube feed and feature yourself whenever you go live on twitch!",
-    "business_email": "taintedgamer720p@gmail.com",
-    "twitter_link": "https://twitter.com/jackfrags",
-    "facebook_link": "https://www.facebook.com/jackfragsofficial",
-    "admin_user": "jackfrags",
-    "admin_pass": "ilovecsgo"
-  },
-  "twitter": {
-    "consumer_key":"kE4PuBDu5XIlPcZ3BjYZW6ky9",
-    "consumer_secret":"UgZMFdECpCUI1x19KKYf02Btk6O3h11TOZPRRKlXfU78YmpWFQ",
-    "access_token":"2311099039-eZfAs5a48NscNShZLYMAVifvwm0RPVKKvMVzs59",
-    "access_secret":"uKkOXTTKAVmsSgCMGlzCzlVx28wKWGv7JSrfhNnlFPUUo",
-    "username":"taintedgamer4k",
-    "numTweets":25
-  }
 }
