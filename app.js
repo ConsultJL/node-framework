@@ -7,9 +7,6 @@ var bodyParser   = require('body-parser');
 var nconf        = require('nconf');
 
 var routes  = require('./controllers/index');
-var about   = require('./controllers/about');
-var clients = require('./controllers/clients');
-var contact = require('./controllers/contact');
 
 var app = express();
 
